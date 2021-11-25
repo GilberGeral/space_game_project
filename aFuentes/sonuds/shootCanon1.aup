@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="shootCanon1_data" version="1.3.0" audacityversion="2.0.5" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="635.8940972222" rate="44100.0">
+	<tags/>
+	<wavetrack name="Normal shot" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5895">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004c0.au" len="5895" min="-0.818132" max="0.821496" rms="0.008264"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.13367347">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="7282">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000757.au" len="7282" min="-0.015719" max="0.013392" rms="0.000984"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Normal shot" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5895">
+				<waveblock start="0">
+					<simpleblockfile filename="e000004a.au" len="5895" min="-0.498528" max="0.490437" rms="0.006105"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.13367347">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="7282">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fd4.au" len="7282" min="-0.025597" max="0.02834" rms="0.001517"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
